@@ -1,0 +1,1 @@
+teve um monte de alteração e criação d branches e exclusão tb e deu um conflito q eu só segui as intruções do vscode p arrumar, n sei se arrumou. devo ter errado em algum comando.
